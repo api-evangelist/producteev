@@ -1,0 +1,98 @@
+{
+    "name": "Producteev",
+    "description": "Producteev is the world\u2019s best task management software for teams. It's more than an online to-do list and has helped hundreds of thousands of teams get work done faster with better results. Learn more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/463-producteev.jpg",
+    "tags": [
+        "have api",
+        "projects",
+        "target",
+        "tasks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/producteev\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Producteev",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/463-producteev.jpg",
+            "humanURL": "https:\/\/www.producteev.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/producteev-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/producteev-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/www.producteev.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.producteev.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.producteev.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/producteev"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/producteev"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.producteev.com\/developers"
+        },
+        {
+            "type": "Email",
+            "url": "task@producteev.com"
+        },
+        {
+            "type": "Email",
+            "url": "f700fea46d68d913e0a6e83da742c9cc@dev.producteev.com"
+        },
+        {
+            "type": "Email",
+            "url": "daaac025f0c0af1729c38bab33d6da9d@dev.producteev.com"
+        },
+        {
+            "type": "Email",
+            "url": "tb@dev.producteev.com"
+        },
+        {
+            "type": "Email",
+            "url": "jm@producteev.com"
+        },
+        {
+            "type": "Email",
+            "url": "jr@producteev.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Producteev"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/producteev"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.producteev.com\/"
+        }
+    ]
+}
